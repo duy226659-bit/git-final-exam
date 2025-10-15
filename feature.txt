@@ -1,1 +1,9 @@
 Tính năng mới: Tự động kiểm tra bài tập Git
+Tính năng mới: Tự động kiểm tra bài tập Git
+
+- Kiểm tra cấu trúc repo
+- Kiểm tra nội dung README
+- Kiểm tra số lượng commit
+- Kiểm tra nhánh và merge
+- Tạo báo cáo kết quả kiểm tra
+
