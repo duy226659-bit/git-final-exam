@@ -7,3 +7,19 @@ Ngày làm bài: [15/10/2025]
 
 ## Cách thực hiện
 Add README.md em commit initial.
+Xin chào, mình là Nguyễn Khánh Duy.  
+Mình đang học môn Quản lý phiên bản với Git.  
+Mình thích khám phá công nghệ mới.  
+Mình muốn trở thành lập trình viên giỏi.  
+Mình đang cố gắng học mỗi ngày.
+
+Sở thích:
+- Chơi game
+- Nghe nhạc
+- Lập trình
+
+Kỹ năng:
+- Git cơ bản
+- HTML/CSS
+- Làm việc nhóm
+
