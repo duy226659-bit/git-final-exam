@@ -1,0 +1,1 @@
+Tính năng mới: Tự động kiểm tra bài tập Git
